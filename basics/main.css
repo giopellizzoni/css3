@@ -33,9 +33,9 @@ body {
   display: inline-block;
 }
 .main-nav {
-  display: inline-blo7ck;
+  display: inline-block;
   text-align: right;
-  width: calc(100% - 49px);
+  width: calc(100% - 54px);
 }
 
 .main-nav__items {
